@@ -48,4 +48,6 @@ The files for the submission can be found at `submission`.
 It contains:
 
 1. [Mid-Assignment PDF Report]
-2. [Rails Startup Screen]
+2. [Rails Startup Screen](https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png)
+
+<p align="center"><img width=70% src="https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png" /></p>
