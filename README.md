@@ -3,7 +3,7 @@
 <h3 align="center">A todo list for the meticulous</h2>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e702b129-4d70-4b36-afaf-f8f015c62f92/deploy-status)](https://app.netlify.com/sites/eloquent-visvesvaraya-83fcf0/deploys)  
-Preview the app [here](https://www.hityourtargets.xyz)
+<p align="center">Preview the app <a href="https://www.hityourtargets.xyz">here</a></p>
 
 ## Basic Overview
 A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, hit **your** targets.
