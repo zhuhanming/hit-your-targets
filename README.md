@@ -12,7 +12,7 @@ A todo list that revolves around task and subtask management, Hit Your Targets a
 
 <br/>
 <br/>
-<p align="center"><img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-dark.png" /></p>
+<p align="center"><img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-dark.png" /></p>
 <br/>
 
 ### Upcoming Features
