@@ -1,3 +1,6 @@
 [submodule "hit-your-targets-api"]
 	path = hit-your-targets-api
 	url = git@github.com:zhuhanming/hit-your-targets-api.git
+[submodule "hit-your-targets-frontend"]
+	path = hit-your-targets-frontend
+	url = git@github.com:zhuhanming/hit-your-targets-frontend.git
