@@ -37,7 +37,15 @@ in the repository folder to pull the submodules.
 ### READMEs
 The various READMEs can be found in their respective folders.
 
-This repository consists of three submodules:
+This repository consists of two submodules:
 
 1. `hit-your-target-frontend` contains the code for the frontend, hosted at [https://www.hityourtargets.xyz](https://www.hityourtargets.xyz)
 2. `hit-your-target-api` contains the code for the backend, hosted at [https://radiant-sea-97785.herokuapp.com](https://radiant-sea-97785.herokuapp.com)
+
+### Submission Folders
+The files for the submission can be found at `submission`.
+
+It contains:
+
+1. [Mid-Assignment PDF Report]
+2. [Rails Startup Screen]
