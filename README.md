@@ -1,6 +1,6 @@
 <p align="center"><img width=20% src="https://github.com/zhuhanming/cvwo/blob/master/assets/logo.png" /></p>
 <h1 align="center">Hit Your Targets</h1>
-<h2 align="center">A todo list for the meticulous</h2>
+<h3 align="center">A todo list for the meticulous</h2>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e702b129-4d70-4b36-afaf-f8f015c62f92/deploy-status)](https://app.netlify.com/sites/eloquent-visvesvaraya-83fcf0/deploys)  
 Preview the app [here](https://www.hityourtargets.xyz)
