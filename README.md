@@ -11,8 +11,7 @@
 A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, **hit your targets**.
 
 <br/>
-<br/>
-<p align="center"><img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-dark.png" /></p>
+<p align="center"><img width=45% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/actual-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/actual-main-dark.png" /></p>
 <br/>
 
 ### Upcoming Features
@@ -42,10 +41,15 @@ This repository consists of two submodules:
 1. `hit-your-target-frontend` contains the code for the frontend, hosted at [https://www.hityourtargets.xyz](https://www.hityourtargets.xyz)
 2. `hit-your-target-api` contains the code for the backend, hosted at [https://radiant-sea-97785.herokuapp.com](https://radiant-sea-97785.herokuapp.com)
 
-### Submission Folders
+### Submission
 The files for the submission can be found at `submission`.
 
 It contains:
 
 1. [Mid-Assignment PDF Report]
-2. [Rails Startup Screen]
+2. [Rails Startup Screen](https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png)
+
+<p align="center"><img width=70% src="https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png" /></p>
+
+### Designs and Assets
+The remaining files can be found under `mockups` and `assets`. They contain the digital assets and mockups created by me throughout this project. The original Adobe XD mockup files can also be found inside.
