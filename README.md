@@ -11,8 +11,7 @@
 A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, **hit your targets**.
 
 <br/>
-<br/>
-<p align="center"><img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-dark.png" /></p>
+<p align="center"><img width=45% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/actual-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/actual-main-dark.png" /></p>
 <br/>
 
 ### Upcoming Features
