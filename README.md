@@ -1,7 +1,18 @@
-# Hit Your Targets - A todo list for the meticulous
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e702b129-4d70-4b36-afaf-f8f015c62f92/deploy-status)](https://app.netlify.com/sites/eloquent-visvesvaraya-83fcf0/deploys)
+<p align="center"><img width=20% src="https://github.com/zhuhanming/cvwo/blob/master/assets/logo.png" /></p>
+<h1 align="center">Hit Your Targets</h1>
+<h2 align="center">A todo list for the meticulous</h2>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e702b129-4d70-4b36-afaf-f8f015c62f92/deploy-status)](https://app.netlify.com/sites/eloquent-visvesvaraya-83fcf0/deploys)  
 Preview the app [here](https://www.hityourtargets.xyz)
+
+## Basic Overview
+A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, hit **your** targets.
+
+<p align="center"><img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=40% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/main-dark.png" /></p>
+
+### Upcoming Features
+* Kanban View
+* Calendar View
 
 ## Cloning this repository
 Note that git repositories with submodules are handled differently by git and cannot be cloned directly. Please use the command
