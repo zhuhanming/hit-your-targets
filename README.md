@@ -42,7 +42,7 @@ This repository consists of two submodules:
 1. `hit-your-target-frontend` contains the code for the frontend, hosted at [https://www.hityourtargets.xyz](https://www.hityourtargets.xyz)
 2. `hit-your-target-api` contains the code for the backend, hosted at [https://radiant-sea-97785.herokuapp.com](https://radiant-sea-97785.herokuapp.com)
 
-### Submission Folders
+### Submission
 The files for the submission can be found at `submission`.
 
 It contains:
@@ -51,3 +51,6 @@ It contains:
 2. [Rails Startup Screen](https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png)
 
 <p align="center"><img width=70% src="https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png" /></p>
+
+### Designs and Assets
+The remaining files can be found under `mockups` and `assets`. They contain the digital assets and mockups created by me throughout this project. The original Adobe XD mockup files can also be found inside.
