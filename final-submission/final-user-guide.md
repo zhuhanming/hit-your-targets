@@ -13,13 +13,13 @@ Get started now at [https://www.hityourtargets.xyz](https://www.hityourtargets.x
 3. [Understanding the List View](#understanding-the-list-view)
     1. [Creating Your First Task!](#creating-your-first-task)
 4. [Understanding the Kanban View](#understanding-the-kanban-view)
-    1. [Subtask Creation - Break Your Tasks into Bite-Sized Pieces!](#subtask-creation---break-your-tasks-into-bite---sized-pieces)
-    2. [Tagging Your Tasks](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#18ef8ff27aa549f88a9642918f6f8f34)
-5. [Searching Through Tasks](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#f1fdd50178524c67a209d55cd0d9e4d4)
-    1. [Kanban View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#40ef128381624f19b56310089de0d026)
-    2. [List View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#a2e2c2009b23481394afc92d7295fb0a)
-6. [Viewing on Mobile](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#c92a829fa7bb4fa5a10360f660ed0658)
-7. Logging Out
+    1. [Subtask Creation - Break Your Tasks into Bite-Sized Pieces!](#subtask-creation-break-your-tasks-into-bite-sized-pieces)
+    2. [Tagging Your Tasks](#tagging-your-tasks)
+5. [Searching Through Tasks](#searching-through-tasks)
+    1. [Kanban View](#kanban-view)
+    2. [List View](#list-view)
+6. [Viewing on Mobile](#viewing-on-mobile)
+7. [Logging Out](#logging-out)
 
 ## Sign Up and Login
 
