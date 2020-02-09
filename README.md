@@ -11,11 +11,10 @@
 A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, **hit your targets**.
 
 <br/>
-<p align="center"><img width=45% src="mockups/actual-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="mockups/actual-main-dark.png" /></p>
+<p align="center"><img width=45% src="screenshots/final-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="screenshots/actual-main-dark.png" /></p>
 <br/>
 
 ### Upcoming Features
-* Kanban View
 * Calendar View
 
 ## Cloning this repository
@@ -45,7 +44,10 @@ This repository consists of two submodules:
 The files for the final submission can be found in `final-submission`.
 
 It contains:
-1. [Final DB Schema](final-submission/final-db-schema.pdf)
+1. [Final Assignment PDF Report](final-submission/final-assignment-report.pdf)
+2. [User Guide PDF](final-submission/final-user-guide.pdf)
+3. [User Guide Markdown](final-submission/final-user-guide.md)
+4. [Final DB Schema](final-submission/final-db-schema.pdf)
 
 <p align="center"><img width=70% src="final-submission/final-db-schema-img.png" /></p>
 
