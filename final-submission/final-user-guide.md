@@ -8,7 +8,7 @@ Get started now at [https://www.hityourtargets.xyz](https://www.hityourtargets.x
 
 ## Contents
 
-1. [Sign Up and Login](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#f3170b2ec0f145e18ddd6671314303a1)
+1. [Sign Up and Login](#sign-up-and-login)
 2. [Understanding the Main View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#f841b1d1ddcf4946bc5a6a9d15c667f6)
 3. [Understanding the List View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#4d828a8ef50949edbd040dd6a6aa7836)
     1. [Creating Your First Task!](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#de95d763c99f486883464a88060c29da)
@@ -83,9 +83,9 @@ Stay tuned for updates!
 
 ### Miscellaneous Features
 
-You might have noticed that there is a cute toggle at the top right corner of your screen. What might it do? Give it a click to find out!
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.41.30_PM.png" /></p>
 
-![user-guide-images/Screenshot_2020-02-09_at_9.41.30_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.41.30_PM.png)
+You might have noticed that there is a cute toggle at the top right corner of your screen. What might it do? Give it a click to find out!
 
 ## Understanding the List View
 
@@ -93,9 +93,11 @@ Now that we've taken a look at the Main view, let us take a look at the List vie
 
 You can access the List view through the second button from the top on the left-hand menu!
 
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.45.01_PM.png" width=20%/></p>
+
+
 Click it! You should see the below screen:
 
-![user-guide-images/Screenshot_2020-02-09_at_9.45.01_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.45.01_PM.png)
 
 ![user-guide-images/Screenshot_2020-02-09_at_9.46.28_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.46.28_PM.png)
 
