@@ -43,9 +43,9 @@ You should be seeing the following dashboard:
 
 Let us take a look at each of these sections of the Main view:
 
-![user-guide-images/Screenshot_2020-02-09_at_9.31.26_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.31.26_PM.png)
-
 ### Tasks for Today
+
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.31.26_PM.png"/></p>
 
 The tasks for today condenses for you the tasks you have left for today.
 
@@ -57,15 +57,15 @@ The tasks with the line in their checkboxes are ones with subtasks. More will be
 
 ### Your Progress
 
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.35.50_PM.png" /></p>
+
 This section gives you a rough overview of your progress with your tasks. These progress bars are calculated based on the percentage of subtasks completed - the more you have completed, the closer you are to completion!
 
 Tasks without subtasks are also reflected, except that they only have two states - 0% completed with an empty bar, or 100% completed with a full bar.
 
-![user-guide-images/Screenshot_2020-02-09_at_9.35.50_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.35.50_PM.png)
-
-![user-guide-images/Screenshot_2020-02-09_at_9.38.20_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.38.20_PM.png)
-
 ### Fun Fact of the Day
+
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.38.20_PM.png" /></p>
 
 The Fun Fact of the Day, as the name suggests, gives you a fun fact every day!
 
