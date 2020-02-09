@@ -11,7 +11,9 @@
 A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, **hit your targets**.
 
 <br/>
-<p align="center"><img width=45% src="screenshots/final-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="screenshots/actual-main-dark.png" /></p>
+<p align="center"><img width=45% src="screenshots/final-login-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="screenshots/final-main-light.png" /></p>
+<p align="center"><img width=45% src="screenshots/final-list-dark.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="screenshots/final-kanban-search-light.png" /></p>
+<p align="center"><img width=45% src="screenshots/final-list-search-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="screenshots/final-kanban-dragged-dark.png" /></p>
 <br/>
 
 ### Upcoming Features
