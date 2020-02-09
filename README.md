@@ -11,7 +11,7 @@
 A todo list that revolves around task and subtask management, Hit Your Targets aims (pun intended) to fill the gap in the market, and be a precise tool for users to plan every single detail of their life out. Armed with three different views for users organise their day to day activities, Hit Your Targets guarantees to help you, well, **hit your targets**.
 
 <br/>
-<p align="center"><img width=45% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/actual-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="https://github.com/zhuhanming/cvwo/blob/master/mockups/actual-main-dark.png" /></p>
+<p align="center"><img width=45% src="mockups/actual-list-light.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="mockups/actual-main-dark.png" /></p>
 <br/>
 
 ### Upcoming Features
@@ -46,10 +46,10 @@ The files for the submission can be found at `submission`.
 
 It contains:
 
-1. [Mid-Assignment PDF Report](https://github.com/zhuhanming/cvwo/blob/master/submission/mid-assignment-report.pdf)
-2. [Rails Startup Screen](https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png)
+1. [Mid-Assignment PDF Report](mid-submission/mid-assignment-report.pdf)
+2. [Rails Startup Screen](mid-submission/rails-screenshot.png)
 
-<p align="center"><img width=70% src="https://github.com/zhuhanming/cvwo/blob/master/submission/rails-screenshot.png" /></p>
+<p align="center"><img width=70% src="mid-submission/rails-screenshot.png" /></p>
 
 ### Designs and Assets
 The remaining files can be found under `mockups` and `assets`. They contain the digital assets and mockups created by me throughout this project. The original Adobe XD mockup files can also be found inside.
