@@ -13,7 +13,7 @@ Get started now at [https://www.hityourtargets.xyz](https://www.hityourtargets.x
 3. [Understanding the List View](#understanding-the-list-view)
     1. [Creating Your First Task!](#creating-your-first-task)
 4. [Understanding the Kanban View](#understanding-the-kanban-view)
-    1. [Subtask Creation - Break Your Tasks into Bite-Sized Pieces!](#subtask-creation-break-your-tasks-into-bite-sized-pieces)
+    1. [Subtask Creation - Break Your Tasks into Bite-Sized Pieces!](#subtask-creation---break-your-tasks-into-bite-sized-pieces)
     2. [Tagging Your Tasks](#tagging-your-tasks)
 5. [Searching Through Tasks](#searching-through-tasks)
     1. [Kanban View](#kanban-view)
@@ -115,15 +115,15 @@ As the name suggests, the List view has a List! The List contains your tasks, wh
 
 ### Task Body
 
+![user-guide-images/Screenshot_2020-02-09_at_9.51.11_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.51.11_PM.png)
+
 The left side of your screen is the List, while the right side acts as the Task Body. Selecting any task on the List allows you to view the task in greater detail via the Task Body.
 
 We shall experiment more with this subsequently, let us continue with the rest of the parts of the List view.
 
-![user-guide-images/Screenshot_2020-02-09_at_9.51.11_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.51.11_PM.png)
-
 ### View Selector
 
-![user-guide-images/Screenshot_2020-02-09_at_9.48.53_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.48.53_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.48.53_PM.png" /></p>
 
 The View Selector allows you to filter the tasks you see in your List. Let's say you're only interested in tasks due today or earlier - clicking on **Today** will immediately show you that.
 
@@ -131,11 +131,9 @@ Or perhaps you're interested in the tasks due this week. No worries, just click 
 
 Selecting **All** will show you all **incomplete** tasks, while selecting **Completed** will show you all completed tasks.
 
-![user-guide-images/Screenshot_2020-02-09_at_9.54.36_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.54.36_PM.png)
-
-![user-guide-images/Screenshot_2020-02-09_at_9.54.45_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.54.45_PM.png)
-
 ### Search
+
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_9.54.36_PM.png" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="user-guide-images/Screenshot_2020-02-09_at_9.54.45_PM.png"/></p>
 
 The Search button enables the Search mode for the app. Entering the Search mode will allow you to search through your tasks. More will be touched upon later.
 
@@ -185,9 +183,9 @@ We will come back to the rest of the features later.
 
 Let us head over to the Kanban view now. Click on the third button on the left-hand menu to navigate to the Kanban View.
 
-You should see the screen below:
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.06.53_PM.png" width="20%/></p>
 
-![user-guide-images/Screenshot_2020-02-09_at_10.06.53_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.06.53_PM.png)
+You should see the screen below:
 
 ![user-guide-images/Screenshot_2020-02-09_at_10.07.14_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.07.14_PM.png)
 
@@ -197,21 +195,20 @@ Let us run through the features once again.
 
 ### View Selector
 
-![user-guide-images/Screenshot_2020-02-09_at_10.09.18_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.09.18_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.09.18_PM.png"/></p>
 
 First thing you might notice is that the View Selector now only has two views! Indeed, you can now only see your incomplete tasks and completed tasks. "Why?" you might ask.
 
 Well, this is because in Kanban view, we support personalised ordering. In other words, you can reorder the tasks as you like! This is done through the Kanban Board.
 
 ### Kanban Board
+![user-guide-images/Screenshot_2020-02-09_at_10.11.14_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.11.14_PM.png)
 
-What you see on the right is your board of tasks. You can scroll through your tasks horizontally, and easily reorder your tasks simply by dragging and dropping!
+What you see above is your board of tasks. You can scroll through your tasks horizontally, and easily reorder your tasks simply by dragging and dropping!
 
 Each of your tasks is now a Task Panel.
 
 Here's an example:
-
-![user-guide-images/Screenshot_2020-02-09_at_10.11.14_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.11.14_PM.png)
 
 ![user-guide-images/Screenshot_2020-02-09_at_9.05.32_PM.png](user-guide-images/Screenshot_2020-02-09_at_9.05.32_PM.png)
 
@@ -221,9 +218,9 @@ It's that easy!
 
 Similarly, we support task creation from the Kanban View. This is done by clicking the Task Creation Panel with the words "Create Task" on it. 
 
-Clicking it will give you the field to type in your task title. Clicking Submit or pressing Return will create your task immediately.
-
 ![user-guide-images/Screenshot_2020-02-09_at_10.13.20_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.13.20_PM.png)
+
+Clicking it will give you the field to type in your task title. Clicking Submit or pressing Return will create your task immediately.
 
 ## Subtask Creation - Break Your Tasks into Bite-Sized Pieces!
 
@@ -233,9 +230,9 @@ Hit Your Targets operates on a very simple principle - tasks can be tasks in the
 
 So now let us try creating a subtask.
 
-In the Kanban view, this can be easily done by simply typing into the field at the bottom of your Task Panel. Pressing return will instantly create the subtask.
-
 ![user-guide-images/Screenshot_2020-02-09_at_10.17.08_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.17.08_PM.png)
+
+In the Kanban view, this can be easily done by simply typing into the field at the bottom of your Task Panel. Pressing return will instantly create the subtask.
 
 ![user-guide-images/Screenshot_2020-02-09_at_10.17.17_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.17.17_PM.png)
 
@@ -253,9 +250,9 @@ Now, how can we better categorise our tasks? One way is to tag it with an approp
 
 Let us try tagging our task. Let's tag it "Shopping".
 
-![user-guide-images/Screenshot_2020-02-09_at_10.21.17_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.21.17_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.21.17_PM.png" /></p>
 
-![user-guide-images/Screenshot_2020-02-09_at_10.21.28_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.21.28_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.21.28_PM.png" /></p>
 
 As always, pressing Return / Enter immediately creates the tag and adds it to the task. It's that simple!
 
@@ -267,21 +264,24 @@ Let us now find out how we can search through our tasks. First, let us do so in 
 
 To start our search, we first click the Search button at the top right of the screen.
 
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.23.32_PM.png"/></p>
+
 Woah! What's this dropdown menu?
 
 In Kanban view, entering Search mode will cause the dropdown menu to show, which allows you to search in Kanban view.
 
 Let us first search for "supermarket".
 
-![user-guide-images/Screenshot_2020-02-09_at_10.23.32_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.23.32_PM.png)
 
 There seems to be no difference! But what if we change it to "supermarket**s**"?
 
-![user-guide-images/Screenshot_2020-02-09_at_10.25.26_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.25.26_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.25.26_PM.png"/></p>
 
 Our Kanban Board is now sadly empty. Indeed, as you can see, searching is done live, and updates with every letter you enter.
 
 Let us now search by tag instead. To do so, click By Tags.
+
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.26.32_PM.png" /></p>
 
 You'd notice that the dropdown changes slightly. There's now an All or Any selection.
 
@@ -291,9 +291,7 @@ The Kanban Board once again seems to have not changed. But what if we add anothe
 
 Let us add "Buying" as a tag now.
 
-![user-guide-images/Screenshot_2020-02-09_at_10.26.32_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.26.32_PM.png)
-
-![user-guide-images/Screenshot_2020-02-09_at_10.27.58_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.27.58_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.27.58_PM.png"/></p>
 
 Our task disappears! This is because we are currently searching for tasks that contain **All** of the tags we have keyed in. Since our previous task only had "Shopping" as a tag, we can't find it.
 
@@ -315,9 +313,9 @@ Indeed, a core principle of Hit Your Targets is to ensure that the integration b
 
 Similarly, we can toggle between **All** and **Any** via the options at the right of the Search Bar. To switch between searching by tags and searching by title, simple click the dropdown on the left side of the Search Bar and select the desired option!
 
-Everything in Hit Your Targets is built to be seamless and intuitive for you. We are, after all, here to help you hit your targets with ease.
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.34.02_PM.png" /></p>
 
-![user-guide-images/Screenshot_2020-02-09_at_10.34.02_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.34.02_PM.png)
+Everything in Hit Your Targets is built to be seamless and intuitive for you. We are, after all, here to help you hit your targets with ease.
 
 ## Viewing on Mobile
 
@@ -325,13 +323,9 @@ Hit Your Targets is also fully mobile responsive. Simply launch our site with yo
 
 Here are some screenshots of how it looks:
 
-![user-guide-images/IMG_8920.png](user-guide-images/IMG_8920.png)
+<p align=center><img src="user-guide-images/IMG_8920.png" width=30%/>&nbsp;&nbsp;<img src="user-guide-images/IMG_8916.png" width=30%/>&nbsp;&nbsp;<img src="user-guide-images/IMG_8918.png" width=30%/>
 
-![user-guide-images/IMG_8916.png](user-guide-images/IMG_8916.png)
-
-![user-guide-images/IMG_8918.png](user-guide-images/IMG_8918.png)
-
-![user-guide-images/IMG_8917.png](user-guide-images/IMG_8917.png)
+<p align=center><img src="user-guide-images/IMG_8917.png" width=30% />
 
 The key difference lies in how the Todo Body looks like. Unlike the split screen of the desktop List view or the pop-up of the desktop Kanban view, the Todo Body now takes up the entire screen.
 
@@ -340,6 +334,7 @@ Now you can hit your targets, both at home and outside!
 ## Logging Out
 
 Lastly, we have logging out. To log out, simply click on the Profile icon at the bottom left of the menu to access the Settings view.
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.41.46_PM.png" width=20% /></p>
 
 On the Settings view, simply click the Logout button to log out.
 
@@ -347,4 +342,3 @@ All user information and task information will be cleared from your local comput
 
 Thank you and we wish you happy target-hitting!
 
-![user-guide-images/Screenshot_2020-02-09_at_10.41.46_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.41.46_PM.png)
