@@ -230,11 +230,11 @@ Hit Your Targets operates on a very simple principle - tasks can be tasks in the
 
 So now let us try creating a subtask.
 
-![user-guide-images/Screenshot_2020-02-09_at_10.17.08_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.17.08_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.17.08_PM.png"/></p>
 
 In the Kanban view, this can be easily done by simply typing into the field at the bottom of your Task Panel. Pressing return will instantly create the subtask.
 
-![user-guide-images/Screenshot_2020-02-09_at_10.17.17_PM.png](user-guide-images/Screenshot_2020-02-09_at_10.17.17_PM.png)
+<p align=center><img src="user-guide-images/Screenshot_2020-02-09_at_10.17.17_PM.png"/></p>
 
 It's that easy!
 
