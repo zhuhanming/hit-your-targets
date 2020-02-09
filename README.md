@@ -39,10 +39,18 @@ The various READMEs can be found in their respective folders.
 This repository consists of two submodules:
 
 1. `hit-your-target-frontend` contains the code for the frontend, hosted at [https://www.hityourtargets.xyz](https://www.hityourtargets.xyz)
-2. `hit-your-target-api` contains the code for the backend, hosted at [https://radiant-sea-97785.herokuapp.com](https://radiant-sea-97785.herokuapp.com)
+2. `hit-your-target-api` contains the code for the backend, hosted at [https://api2.hityourtargets.xya](https://api2.hityourtargets.xyz)
 
-### Submission
-The files for the submission can be found at `submission`.
+### Final Submission
+The files for the final submission can be found in `final-submission`.
+
+It contains:
+1. [Final DB Schema](final-submission/final-db-schema.pdf)
+
+<p align="center"><img width=70% src="final-submission/final-db-schema.png" /></p>
+
+### Mid-Submission
+The files for the mid-submission can be found in `mid-submission`.
 
 It contains:
 
