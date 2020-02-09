@@ -47,7 +47,7 @@ The files for the final submission can be found in `final-submission`.
 It contains:
 1. [Final DB Schema](final-submission/final-db-schema.pdf)
 
-<p align="center"><img width=70% src="final-submission/final-db-schema.png" /></p>
+<p align="center"><img width=70% src="final-submission/final-db-schema-img.png" /></p>
 
 ### Mid-Submission
 The files for the mid-submission can be found in `mid-submission`.
