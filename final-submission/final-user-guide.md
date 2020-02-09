@@ -9,11 +9,11 @@ Get started now at [https://www.hityourtargets.xyz](https://www.hityourtargets.x
 ## Contents
 
 1. [Sign Up and Login](#sign-up-and-login)
-2. [Understanding the Main View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#f841b1d1ddcf4946bc5a6a9d15c667f6)
-3. [Understanding the List View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#4d828a8ef50949edbd040dd6a6aa7836)
-    1. [Creating Your First Task!](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#de95d763c99f486883464a88060c29da)
-4. [Understanding the Kanban View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#a84e7cb72cf946b8a952164bac0a7432)
-    1. [Subtask Creation - Break Your Tasks into Bite-Sized Pieces!](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#e70615422c4844f796104249e82b675b)
+2. [Understanding the Main View](#understanding-the-main-view)
+3. [Understanding the List View](#understanding-the-list-view)
+    1. [Creating Your First Task!](#creating-your-first-task!)
+4. [Understanding the Kanban View](#understanding-the-kanban-view)
+    1. [Subtask Creation - Break Your Tasks into Bite-Sized Pieces!](#subtask-creation---break-your-tasks-into-bite---sized-pieces!)
     2. [Tagging Your Tasks](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#18ef8ff27aa549f88a9642918f6f8f34)
 5. [Searching Through Tasks](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#f1fdd50178524c67a209d55cd0d9e4d4)
     1. [Kanban View](https://www.notion.so/hanming/Hit-Your-Targets-User-Guide-cdae91735d34460686c327dfc37468f0#40ef128381624f19b56310089de0d026)
