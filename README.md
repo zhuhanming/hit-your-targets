@@ -40,7 +40,7 @@ The various READMEs can be found in their respective folders.
 This repository consists of two submodules:
 
 1. `hit-your-target-frontend` contains the code for the frontend, hosted at [https://www.hityourtargets.xyz](https://www.hityourtargets.xyz)
-2. `hit-your-target-api` contains the code for the backend, hosted at [https://api2.hityourtargets.xya](https://api2.hityourtargets.xyz)
+2. `hit-your-target-api` contains the code for the backend, hosted at [https://api2.hityourtargets.xyz](https://api2.hityourtargets.xyz)
 
 ### Final Submission
 The files for the final submission can be found in `final-submission`.
@@ -65,3 +65,8 @@ It contains:
 
 ### Designs and Assets
 The remaining files can be found under `mockups` and `assets`. They contain the digital assets and mockups created by me throughout this project. The original Adobe XD mockup files can also be found inside.
+
+1. [Adobe XD Mockup](mockups/mockup%20caa%20120120.xd)
+
+#### Sample Mockups
+<p align=center><img src="mockups/main-light.png" width=30% />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mockups/list-dark.png" width=30% />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mockups/kanban-light.png" width=30%/></p>
